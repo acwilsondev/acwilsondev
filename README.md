@@ -18,9 +18,7 @@ When I’m not working, I enjoy experimenting with music production, exploring s
 ## Get in Touch
 I'm always looking to collaborate on exciting projects, whether it's engineering-focused or something in the creative tech space. Feel free to reach out or fork any repository you're interested in!
 
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn URL]
-- **Portfolio**: [Your Portfolio or Personal Website URL]
+[Linktree](https://linktr.ee/acwilsontech)
 ---
 
 Thank you for stopping by, and I hope you find something here that sparks your interest!
