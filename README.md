@@ -19,6 +19,7 @@ When I’m not working, I enjoy experimenting with music production, exploring s
 I'm always looking to collaborate on exciting projects, whether it's engineering-focused or something in the creative tech space. Feel free to reach out or fork any repository you're interested in!
 
 [Linktree](https://linktr.ee/acwilsontech)
+
 ---
 
 Thank you for stopping by, and I hope you find something here that sparks your interest!
