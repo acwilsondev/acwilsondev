@@ -17,7 +17,7 @@ Most recently, the majority of my time has been in designing and building **AWS 
 
 - **Cloud Computing** – AWS, GCP, Firebase
 - **Infrastructure as Code** – Terraform
-- **Programming**– Python, Java/JVM, TypeScript, bash
+- **Programming** – Python, Java/JVM, TypeScript, bash
 - **CI/CD** – GitHub Actions
 
 ## Personal Stuff
