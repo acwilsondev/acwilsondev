@@ -9,6 +9,7 @@ I've been a professional developer for 11+ years and have worked on so many kind
 - a Natural Language Parsing (NLP) compiler
 - multiple plugins for Unreal Engine
 - 20+ year old legacy monoliths
+- quantum graph optimization
 - a greenfield enterprise-scale B2B integration
 
 Most recently, the majority of my time has been in designing and building **AWS Serverless APIs and Event-Driven Automation**.
