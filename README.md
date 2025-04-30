@@ -39,8 +39,6 @@ When I’m not working, I enjoy other technical projects like reconfiguring my s
 
 I'm always looking to collaborate on exciting projects. Hit me up!
 
-[Linktree](https://linktr.ee/acwilsontech)
-
 ---
 
 Thank you for stopping by, and I hope you find something here that sparks your interest!
