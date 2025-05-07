@@ -29,7 +29,7 @@ Most recently, the majority of my time has been in designing and building **AWS 
 - **Enable Others** – Instead of just solving a problem for yourself, create tools and frameworks that help others solve problems.
 - **Challenge Buearocracy** – Question centralized control, gatekeeping, and artificial constraints in technology and society where possible.
 - **Engineer for Empowerment** – Design with the goal of making technology more accessible, understandable, and useful to people, especially those historically excluded.
-- **Tinker First, Ask Later** – Experimentation and hands-on learning are the best ways to discover solutions.
+- **Tinker First, Ask Questions Later** – Experimentation and hands-on learning are the best ways to discover solutions.
 
 ### Additional Interests
 
